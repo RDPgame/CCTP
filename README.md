@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# CCTP
+Core Client Tool Plus: 适用于RDPgame的核心客户端工具+
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+**WIP**
